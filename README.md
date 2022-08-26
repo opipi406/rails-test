@@ -10,7 +10,7 @@ Ruby on Rails練習用リボジトリ
 
 ## 3.Docker上でRailsのプロジェクトを作成
 ```
-docker-compose run rails new . --database-mysql
+docker-compose run rails new . --force --database=mysql
 ```
 
 ## 4.リビルドしてコンテナを最新状態に更新
