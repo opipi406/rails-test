@@ -29,7 +29,9 @@ L18 host: db
 ```
 
 ## 6.railsのコマンドでデータベースを作成
+```
 docker-compose run web rails db:create
+```
 
 ## 7.railsの起動
 ```
