@@ -48,3 +48,6 @@ docker-compose up -d
 ```
 docker-compose exec web /bin/bash
 ```
+
+# Other
+[docker-composeでRailsのGemを更新する時、docker buildするのを回避したい](https://qiita.com/neko-neko/items/abe912eba9c113fd527e)
